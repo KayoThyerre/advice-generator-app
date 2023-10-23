@@ -16,27 +16,27 @@ main {
     flex-direction: column;
     align-items: center;
     background-color: var(--advice-card-color);
-    margin: 20px;
-    width: 730px;
-    height: 450px;
+    padding: 23px;
+    width: 650px;
+    height: 400px;
     border-radius: 15px;
 }
 
 .card .advice-id {
     color: var(--advice-dice-color);
     text-transform: uppercase;
-    letter-spacing: 30px;
+    letter-spacing: 5px;
     text-align: center;
-    letter-spacing: 5px;  
     font-size: 17px;
-    margin-top: 65px;  
+    margin-top: 35px;
 }
 
 .card .advice {
     color: white;
-    font-size: 37px;
-    padding: 40px 75px 44px 75px;
+    font-size: 35px;
+    padding: 23px;
     text-align: center;
+    margin-bottom: 17px;
 }
 
 .card .advice-update {

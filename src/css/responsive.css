@@ -2,7 +2,7 @@
     .card{
         padding-inline: 50px;
         width: 330px;
-        height: 945px;
+        height: 700px;
     }
     .card p{
         font-size: 21px;
@@ -14,6 +14,11 @@
     }
     
     .card .advice-update {
-        transform: translateY(50%);
+        transform: translateY(90%);
+    }
+
+    .card .advice-id .advice {
+        width: 330px;
+        height: 250px;
     }
 }
