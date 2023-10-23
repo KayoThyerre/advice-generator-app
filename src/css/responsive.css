@@ -1,0 +1,15 @@
+@media(max-width: 768px){
+    .card{
+        padding-inline: 50px;
+        width: 330px;
+        height: 945px;
+    }
+    .card p{
+        font-size: 21px;
+        padding: 0px;
+    }
+
+    .advice-update {
+        display: block;
+    }
+}
