@@ -12,4 +12,8 @@
     .advice-update {
         display: block;
     }
+    
+    .card .advice-update {
+        transform: translateY(50%);
+    }
 }
