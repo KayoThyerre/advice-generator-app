@@ -40,7 +40,7 @@ main {
 }
 
 .card .advice-update {
-    transform: translateY(100%);
+    transform: translateY(80%);
     width: 70px;
     height: 70px;
     border-radius: 50%;
